@@ -37,4 +37,5 @@ dependencies {
     testImplementation 'com.typesafe.akka:akka-http-testkit_2.12:10.1.8'
     testImplementation 'com.typesafe.akka:akka-testkit_2.12:2.5.19'
     testRuntime 'org.pegdown:pegdown:1.6.0'
+//    implementation 'com.typesafe.akka:akka-remote_2.13:2.6.0'
 }
